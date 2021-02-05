@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SongManager.ConsoleApp/1.0.0": {
+        "runtime": {
+          "SongManager.ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SongManager.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

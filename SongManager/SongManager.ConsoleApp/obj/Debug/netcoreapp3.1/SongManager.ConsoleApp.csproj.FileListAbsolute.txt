@@ -1,0 +1,11 @@
+C:\Users\Michael Bucek\OneDrive\HTL\PR_I\SMUEP\SMUEP10_StructInsertionSort\SongManager\SongManager.ConsoleApp\obj\Debug\netcoreapp3.1\SongManager.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Michael Bucek\OneDrive\HTL\PR_I\SMUEP\SMUEP10_StructInsertionSort\SongManager\SongManager.ConsoleApp\obj\Debug\netcoreapp3.1\SongManager.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Michael Bucek\OneDrive\HTL\PR_I\SMUEP\SMUEP10_StructInsertionSort\SongManager\SongManager.ConsoleApp\obj\Debug\netcoreapp3.1\SongManager.ConsoleApp.AssemblyInfo.cs
+C:\Users\Michael Bucek\OneDrive\HTL\PR_I\SMUEP\SMUEP10_StructInsertionSort\SongManager\SongManager.ConsoleApp\bin\Debug\netcoreapp3.1\SongManager.ConsoleApp.exe
+C:\Users\Michael Bucek\OneDrive\HTL\PR_I\SMUEP\SMUEP10_StructInsertionSort\SongManager\SongManager.ConsoleApp\bin\Debug\netcoreapp3.1\SongManager.ConsoleApp.deps.json
+C:\Users\Michael Bucek\OneDrive\HTL\PR_I\SMUEP\SMUEP10_StructInsertionSort\SongManager\SongManager.ConsoleApp\bin\Debug\netcoreapp3.1\SongManager.ConsoleApp.runtimeconfig.json
+C:\Users\Michael Bucek\OneDrive\HTL\PR_I\SMUEP\SMUEP10_StructInsertionSort\SongManager\SongManager.ConsoleApp\bin\Debug\netcoreapp3.1\SongManager.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Michael Bucek\OneDrive\HTL\PR_I\SMUEP\SMUEP10_StructInsertionSort\SongManager\SongManager.ConsoleApp\bin\Debug\netcoreapp3.1\SongManager.ConsoleApp.dll
+C:\Users\Michael Bucek\OneDrive\HTL\PR_I\SMUEP\SMUEP10_StructInsertionSort\SongManager\SongManager.ConsoleApp\bin\Debug\netcoreapp3.1\SongManager.ConsoleApp.pdb
+C:\Users\Michael Bucek\OneDrive\HTL\PR_I\SMUEP\SMUEP10_StructInsertionSort\SongManager\SongManager.ConsoleApp\obj\Debug\netcoreapp3.1\SongManager.ConsoleApp.dll
+C:\Users\Michael Bucek\OneDrive\HTL\PR_I\SMUEP\SMUEP10_StructInsertionSort\SongManager\SongManager.ConsoleApp\obj\Debug\netcoreapp3.1\SongManager.ConsoleApp.pdb
